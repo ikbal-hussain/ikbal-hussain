@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikbal-hussain
+- 👋 Hi, I’m Ikbal Hussain
 - 👀 I’m a web developer
 - 📫 How to reach me ... Connect me on LinkedIn `https://www.linkedin.com/in/ikbal-hussain-web-developer/`
 
